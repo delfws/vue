@@ -93,7 +93,7 @@
     "cz-conventional-changelog": "^2.0.0",
     "de-indent": "^1.0.2",
     "es6-promise": "^4.1.0",
-    "escodegen": "^1.8.1",
+    "escodegen": "^2.0.0",
     "eslint": "^5.7.0",
     "eslint-plugin-flowtype": "^2.34.0",
     "eslint-plugin-jasmine": "^2.8.4",
